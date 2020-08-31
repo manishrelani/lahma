@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465937016066",
+    "firebase_url": "https://lahma-649fc.firebaseio.com",
+    "project_id": "lahma-649fc",
+    "storage_bucket": "lahma-649fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465937016066:android:c0c366f3d6080c32470e1b",
+        "android_client_info": {
+          "package_name": "com.lahma.sa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465937016066-bh7i2du6otdf3rfpjmdra2u0fojhlfm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lahma.sa",
+            "certificate_hash": "bca5e87e2878c96a4b41076bac07fb4dafb568e7"
+          }
+        },
+        {
+          "client_id": "465937016066-juerg0c81de49grfma9opr2mv36h95v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoGV6xrx0GkYkf9wz3v06ivp2lKHHyo9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465937016066-juerg0c81de49grfma9opr2mv36h95v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
